@@ -1,0 +1,7 @@
+{
+  "name": "Inventaris Asset Konten Lokal",
+  "description": "A professional tool to manage and organize digital marketing assets including images, prompts, taglines, and social media captions with smart AI generation and bulk copy features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
