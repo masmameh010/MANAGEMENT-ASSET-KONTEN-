@@ -19,12 +19,13 @@ import { Asset } from "../types";
  * agar data tersimpan di akun Cloud Anda sendiri.
  */
 const firebaseConfig = {
-  apiKey: "SALIN_API_KEY_ANDA_DI_SINI",
-  authDomain: "project-anda.firebaseapp.com",
-  projectId: "project-anda",
-  storageBucket: "project-anda.appspot.com",
-  messagingSenderId: "1234567890",
-  appId: "1:1234567890:web:abcdef123456"
+  apiKey: "AIzaSyBWlGyJmXXuQICWpTVJU_SGjOFb9kAULow",
+  authDomain: "sytong-longot.firebaseapp.com",
+  projectId: "sytong-longot",
+  storageBucket: "sytong-longot.firebasestorage.app",
+  messagingSenderId: "248825880916",
+  appId: "1:248825880916:web:d402b5ba794675a7e128c1",
+  measurementId: "G-QPNK6GKJYK"
 };
 
 const app = initializeApp(firebaseConfig);
